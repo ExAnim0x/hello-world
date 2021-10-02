@@ -1,2 +1,5 @@
 # hello-world
-Setting up github
+
+Fellow lovers.
+
+Let this be a record of my contributions to society.
